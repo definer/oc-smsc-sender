@@ -1,0 +1,11 @@
+fields:
+    api_login:
+        label: definer.smscrusender::lang.backend.api_login
+        commentAbove: definer.smscrusender::lang.backend.api_login_comment
+    api_password:
+        label: definer.smscrusender::lang.backend.api_password
+        commentAbove: definer.smscrusender::lang.backend.api_password_comment
+    from:
+        label: definer.smscrusender::lang.backend.from_label
+        placeholder: definer.smscrusender::lang.backend.from_ph
+        commentAbove: definer.smscrusender::lang.backend.from_comment
